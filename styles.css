@@ -54,7 +54,7 @@ nav {
   gap: 3rem;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(2, 1fr);
-  min-height: 250px;
+  max-height: 750px;
 }
 .main-blog {
   grid-column: 2 span;
